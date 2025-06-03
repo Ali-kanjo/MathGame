@@ -30,24 +30,6 @@ A simple console-based math quiz game written in C++. The game challenges the us
 | 4    | Division (/)      |
 | 5    | Mixed             |
 
-## 🖥️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/math-quiz-game.git
-````
-
-2. Compile the project:
-
-   ```bash
-   g++ -o MathGame MathGame.cpp
-   ```
-
-3. Run the executable:
-
-   ```bash
-   ./MathGame
-   ```
 
 ## 📸 Example Output
 
@@ -91,23 +73,8 @@ ________________________________________
 Do you want to play again : n
 ```
 
-## 📁 Files Structure
-
-```
-math-quiz-game/
-│
-├── MathGame.cpp       # Main source code
-├── README.md          # Project documentation
-```
 
 ## 🧑‍💻 Author
 
-* Developed by [Your Name](https://github.com/yourusername)
+* Developed by [Your Name](https://github.com/Ali-kanjo)
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
