@@ -76,5 +76,5 @@ Do you want to play again : n
 
 ## 🧑‍💻 Author
 
-* Developed by [Your Name](https://github.com/Ali-kanjo)
+* Developed by [Ali Kanjo](https://github.com/Ali-kanjo)
 
